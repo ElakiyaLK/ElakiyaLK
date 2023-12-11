@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElakiyaLK
 - 👀 I’m interested in Frontend designs.
 - 🌱 I’m currently learning REACT JS.
-- 💞️ I’m looking to for entry-level jobs as a frontend developer.
+- 💞️ I’m looking for entry-level jobs as a frontend developer.
 - 📫 Reach me --->https://www.linkedin.com/in/elakiya-lk
 
 <!---
